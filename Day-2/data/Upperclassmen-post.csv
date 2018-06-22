@@ -1,0 +1,43 @@
+ID,Q4,Q5A,Q5B,Q5C,Q6A,Q6B,Q6C,Q7A,Q7B,Q7C
+A1,5,3,networking,interpersonal networking,3,interpersonal networking,interpersonal networking,4,entrepreneurship,activites
+A2,4,7,entrepreneurship,research,7,,,7,,
+A3,4,6,career services,job search,5,digital networking,digital networking,4,reume help,interview help
+A4,4,7,job search,career fairs,4,interpersonal networking,digital networking,4,job search,career services
+A5,5,7,vault,resume help,6,digital networking,digital networking,7,digital networking,digital networking
+A6,4,6,career fairs,job search,3,digital networking,interview help,6,career services,interpersonal networking
+A7,4,6,networking,digital networking,5,practices,practices,5,networking ,job search
+A8,5,7,internships,interview help,7,digital networking,digital networking,7,networking ,digital networking
+A9,5,4,narrowing options,networking,3,digital networking,interpersonal networking,5,goal setting,digital networking
+A10,4,7,narrow competition,interview help,6,job search,job search,6,digital networking,digital networking
+A11,4,6,internships,digital networking,5,digital networking,interpersonal networking,3,interpersonal networking,digital networking
+B1,4,5,digital networking,digital networking,5,job search,interpersonal networking,6,career services,digital networking
+B2,5,6,career fairs,internships,7,job search,networking,7,digital networking,career services
+B3,4,5,digital networking,interpersonal networking,4,interpersonal networking,networking,4,networking ,career fairs
+B4,4,5,job shadowing,job search,6,digital networking,digital networking,5,career services,digital networking
+B5,3,6,internships,resume help,6,growth mindset,digital networking,6,interview help,networking
+B6,4,7,inernships,job search,6,growth mindset,perseverance,6,Resources,time management
+B7,3,7,job search,interview help,7,digital networking,career fairs,7,digital networking,job search
+B8,5,6,job search,career fairs,5,digital networking,atcivism,5,practices,job search
+B9,5,7,job search,career fairs,7,digital networking,career fairs,7,digital networking,digital networking
+B10,4,6,interview help,career services,6,digital networking,digital networking,6,interview help,resume help
+B11,5,7,social media,resume help,6,interpersonal networking,alumnis,6,networking ,digital networking
+C1,4,6,internships,resume help,6,career services,,4,digital networking,digital networking
+C2,5,5,job search,resume help,5,interpersonal networking,having a job is good,5,networking ,interpersonal networking
+C3,4,7,career fairs,interview help,2,digital networking,practices,4,digital networking,digital networking
+C4,5,7,interpersonal networking,internships,6,digital networking,interpersonal networking,6,digital networking,networking
+C5,4,5,goal setting,growth mindset,1,research,practices,5,goal setting,time management
+C6,5,6,interpersonal networking,job search,6,digital networking,digital networking,6,resume help,interview help
+C7,4,5,job search,digital networking,4,practices,research,5,digital networking,career services
+C8,4,3,job search,digital networking,2,career fairs,,2,resume help,
+C9,4,6,professionalism,job search,6,interpersonal networking,digital networking,6,job search,networking
+C10,4,5,entrepreneurship,goal setting,5,growth mindset,perseverance,5,time management,goal setting
+D1,4,5,advising,interview help,5,practices,interpersonal networking,5,resume help,job search
+D2,4,4,digital networking,easy/convenient,4,practices,pracices,4,digital networking,networking
+D3,4,6,internships,job search,6,digital networking,career fairs,7,networking ,research
+D4,4,4,internships,job search,6,digital networking,digital networking,5,digital networking,job search
+D5,4,5,interview help,interpersonal networking,6,digital networking,digital networking,6,resources,planning
+D6,5,5,time management,career fairs,5,digital networking,practices,6,networking ,resume help
+D7,5,5,internships,interpersonal networking,6,digital networking,digital networking,6,networking ,job search
+D8,4,6,internships,resume help,6,digital networking,resume help,6,career services,digital networking
+D9,5,5,goal setting,resources,4,digital networking,digital networking,3,TRiO,Meeting
+D10,1,5,interview help,interpersonal networking,6,digital networking,interpersonal networking,5,digital networking,career services
